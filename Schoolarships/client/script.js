@@ -1,5 +1,5 @@
 const PING_INTERVAL = 10000  //ms
-const FPS = 1000 / 60       // 30fps
+const FPS = 1000 / 60       
 let videoRecording = false
  
 const loadSelfCam = () => {
